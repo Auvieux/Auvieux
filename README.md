@@ -1,5 +1,5 @@
 <div id="header" align="center">
-		<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" alt="">
+		<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="200">
 </div>
 <!--
 **Auvieux/Auvieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
